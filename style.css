@@ -44,8 +44,8 @@ ul {
 }
 
 .arrow {
-    background: #051c32;
-    border-radius: 30%;
+    background: #051c32!important;
+    border-radius: 30%!important;
 }
 
 .arrow-prev {
